@@ -1,0 +1,412 @@
+.div1{
+    background-color: black;
+    height: 650px;
+    padding-top: 10px;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -8px;
+}
+.div2{
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 5px;
+    font-weight: bold;
+}
+.div3{
+    background-color: red;
+    color: red;
+    float: left;
+    height: 30px;
+    width: 550px;
+    margin-top: -25px;
+}
+.div4{
+    background-color: red;
+    color: red;
+    float: right;
+    height: 30px;
+    width: 550px;
+    margin-top: -25px;
+}
+.div5{
+    color: white;
+    margin-top: 25px;
+    text-align: center;
+    margin-right: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.div6{
+    color: white;
+    float: right;
+    margin-right: 350px;
+    position: relative;
+    top: -20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.div7{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 215px;
+}
+.div8{
+     color: white;
+     float: right;
+     padding-right: 345px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 15px;
+     position: relative;
+     top: -20px;
+}
+.div9{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 160px;
+}
+.div10{
+    color: white;
+    float: right;
+    padding-right: 345px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    position: relative;
+    top: -20px;
+}
+.div11{
+    color: white;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 255px;
+}
+.div12{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    float: right;
+    padding-right: 345px;
+    position: relative;
+    top: -20px;
+}
+.div13{
+    color: white;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 175px;
+}
+.div14{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    float: right;
+    padding-right: 345px;
+    position: relative;
+    top: -20px;
+
+}
+.div15{
+    color: white;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 185px;
+
+}
+.div16{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    float: right;
+    padding-right: 345px;
+    position: relative;
+    top: -20px;
+}
+.div17{
+    color: white;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 218px;
+
+}
+.div18{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    float: right;
+    padding-right: 345px;
+    position: relative;
+    top: -20px;
+}
+.div-top{
+    color: white;
+    position: relative;
+    left: 1080px;
+    top: 45px;
+    
+}
+.div19{
+    color: white;
+  text-align: center;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 50px;
+    font-weight: bold;
+    
+}
+.div20{
+    background-color: red;
+    color: red;
+    float: left;
+    margin-top: 23px;
+    width: 620px;
+    height: 30px;
+}
+.div21{
+    color: red;
+    background-color: red;
+    float: right;
+    width: 620px;
+    margin-top: 23px;
+    height: 30px;
+}
+.div22{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-top: 70px;
+    margin-left: 490px;
+}
+.div23{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    float: right;
+    margin-right: 350px;
+    position: relative;
+    top: -20px;
+}
+.div24{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-left: 490px;
+
+}
+.div25{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    float: right;
+    margin-right: 350px;
+    position: relative;
+    top: -20px;
+
+}
+.div26{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-left: 490px;
+}
+.div27{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    float: right;
+    margin-right: 350px;
+    position: relative;
+    top: -20px;
+}
+.div28{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-left: 490px;
+}
+.div29{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    float: right;
+    margin-right: 350px;
+    position: relative;
+    top: -20px;
+}
+.div30{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-left: 490px;
+}
+.div31{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    float: right;
+    margin-right: 350px;
+    position: relative;
+    top: -20px;
+}
+.div32{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-left: 490px;
+}
+.div33{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    float: right;
+    margin-right: 350px;
+    position: relative;
+    top: -20px;
+}
+.div34{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-left: 490px;
+}
+.div35{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    float: right;
+    margin-right: 350px;
+    position: relative;
+    top: -20px;
+}
+.div36{
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 20px;
+    font-weight: bold;
+    left: 200px;
+}
+.div37{
+    background-color: red;
+    color: red;
+    float: left;
+    margin-top: -8px;
+    width: 620px;
+    height: 30px;
+}
+.div38{
+    color: red;
+    background-color: red;
+    float: right;
+    width: 610px;
+    margin-top: -8px;
+    height: 30px;
+}
+.div39{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    position: relative;
+    top: 35px;
+    right: 130px;
+}
+.div40{
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 20px;
+    left: 335px;
+}
+.div41{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    position: relative;
+    top: 25px;
+    left: 490px;
+}
+.div42{
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 10px;
+    float: right;
+    right: 350px;
+}
+.div43{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    position: relative;
+    top: 33px;
+    left: 490px; 
+}
+.div44{
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 20px;
+    float: right;
+    right: 305px;
+}
+.div45{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    position: relative;
+    top: 40px;
+    left: 490px; 
+}
+.div46{
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 27px;
+    float: right;
+    right: 258px;
+}
+.div47{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    position: relative;
+    top: 47px;
+    left: 490px; 
+}
+.div48{
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 33px;
+    float: right;
+    right: 213px;
+}
